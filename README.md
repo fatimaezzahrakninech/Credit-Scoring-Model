@@ -1,3 +1,4 @@
 # Credit-Scoring-Model
-📖 Description
+📖 Description:
+
 This project aims to develop a credit scoring model to assess customers' creditworthiness based on various financial and behavioral characteristics.
